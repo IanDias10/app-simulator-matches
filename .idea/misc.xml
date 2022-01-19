@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Aula Android/AppSimulator/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Aula Android/AppSimulator/app/src/main/res/drawable/ic_baseline_casino_24.xml" value="0.1361111111111111" />
+        <entry key="..\:/Aula Android/AppSimulator/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Aula Android/AppSimulator/app/src/main/res/layout/activity_detail.xml" value="0.1762917933130699" />
+        <entry key="..\:/Aula Android/AppSimulator/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Aula Android/AppSimulator/app/src/main/res/layout/match_item.xml" value="0.33" />
       </map>
     </option>
   </component>
@@ -12,5 +16,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
   </component>
 </project>
