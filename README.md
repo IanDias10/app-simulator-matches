@@ -9,3 +9,6 @@ App Android Nativo de simulação de partidas. Este repositório foi organizado 
     
 3. Java e Kotlin!? Construindo Apps Android
     - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/IanDias10/app-simulator-matches/tree/release/java-e-kotlin-juntos-construindo-apps-android)
+
+4. Explorando o Firebase para APPs Android resilientes
+    - [release/explorando-o-firebase-para-apps-android-resilientes](https://github.com/IanDias10/app-simulator-matches/tree/release/explorando-o-firebase-para-apps-android-resilientes)
